@@ -123,7 +123,7 @@ GUI using Tkinter
 AUTHOR
 
 Vikas Bhargav
-Python Project (BCA / MCA)
+Python Project 
 
 LICENSE
 
